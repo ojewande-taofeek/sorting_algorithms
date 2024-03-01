@@ -50,4 +50,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## More Info
 ### Data Structure and Functions
 - For this project you are given the following print_array, and print_list functions:
-Check the sort.h
+Check the sort.h, print_array.c and print_list.c
