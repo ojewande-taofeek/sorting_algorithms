@@ -44,7 +44,7 @@ int partition(int *array, int low, int high, size_t size)
 			}
 		}
 	}
-	if (idx + 1 != high)
+	if ((idx + 1 != high) && (array[idx + 1] != array[high]))
 	{
 		swap_array(array, idx + 1, high);
 		print_array(array, size);
